@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.pagination-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px; 
+}
+
+.pagination-buttons button {
+  margin: 0 5px; 
+}
+
+.full-width {
+  width: 100%;
+}
+
+.table-container {
+  overflow-x: auto;
+  margin-bottom: 10px;
+}
